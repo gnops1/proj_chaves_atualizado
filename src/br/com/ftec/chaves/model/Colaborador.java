@@ -64,6 +64,11 @@ public class Colaborador {
         this.email = email;
     }
 
+    @Override
+    public String toString() {
+        return this.nome;
+    }
+    
     
     
     

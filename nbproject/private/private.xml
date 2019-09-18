@@ -3,16 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/DevJava/ProjetoChaves/src/br/com/ftec/chaves/model/Reservas.java</file>
-            <file>file:/C:/DevJava/ProjetoChaves/src/br/com/ftec/chaves/view/Reservas.java</file>
-            <file>file:/C:/DevJava/ProjetoChaves/src/br/com/ftec/chaves/control/ReservaDAO.java</file>
-            <file>file:/C:/DevJava/ProjetoChaves/src/br/com/ftec/chaves/control/ConnectionFactory.java</file>
-            <file>file:/C:/DevJava/ProjetoChaves/src/br/com/ftec/chaves/model/Colaborador.java</file>
-            <file>file:/C:/DevJava/ProjetoChaves/src/br/com/ftec/controll/SalaDAO.java</file>
-            <file>file:/C:/DevJava/ProjetoChaves/src/br/com/ftec/chaves/model/Sala.java</file>
-            <file>file:/C:/DevJava/ProjetoChaves/src/br/com/ftec/chaves/model/Reserva.java</file>
-            <file>file:/C:/DevJava/ProjetoChaves/src/br/com/ftec/chaves/control/ColaboradorDAO.java</file>
-            <file>file:/C:/DevJava/ProjetoChaves/src/br/com/ftec/chaves/control/SalaDAO.java</file>
+            <file>file:/C:/Users/massirer/Documents/NetBeansProjects/ProjetoChaves/src/br/com/ftec/chaves/model/Colaborador.java</file>
         </group>
     </open-files>
 </project-private>
